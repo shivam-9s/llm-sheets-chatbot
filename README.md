@@ -107,7 +107,7 @@ LLM_Sheets_Chatbot
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/llm-sheets-chatbot.git
+git clone https://github.com/shivam-9s/llm-sheets-chatbot.git
 ```
 
 ---
